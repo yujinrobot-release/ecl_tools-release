@@ -1,0 +1,12 @@
+Source: ros-groovy-ecl-tools
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-ecl-build,ros-groovy-ecl-license
+Homepage: http://www.ros.org/wiki/ecl_tools
+Standards-Version: 3.9.2
+
+Package: ros-groovy-ecl-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Tools and utilities for ecl development.
