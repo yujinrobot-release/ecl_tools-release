@@ -1,0 +1,9 @@
+ros-hydro-ecl-build (0.60.1-0precise) precise; urgency=high
+
+  * ecl_check_for->ecl_detect for consistency.
+  * use catkin exports for cmake modules, closes #2 <https://github.com/stonier/ecl_tools/issues/2>
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 28 Jan 2014 15:00:00 -0000
+
+
