@@ -1,3 +1,25 @@
+## ecl_tools (indigo) - 0.60.1-0
+
+User `snorri@snorriwork` released the packages in the `ecl_tools` repository into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo ecl_tools` on `Fri, 04 Apr 2014 16:23:27 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.60.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## ecl_tools - 0.60.1-0
 
 User `snorri@snorriwork64` released the packages in the `ecl_tools` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro ecl_tools` on `Wed, 29 Jan 2014 07:58:09 -0000`
