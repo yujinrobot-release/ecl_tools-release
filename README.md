@@ -1,3 +1,27 @@
+## ecl_tools (indigo) - 0.61.2-0
+
+The packages in the `ecl_tools` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo ecl_tools` on `Sat, 09 Jan 2016 07:44:41 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: https://github.com/yujinrobot-release/ecl_tools-release.git
+- rosdistro version: `0.61.1-0`
+- old version: `0.61.1-0`
+- new version: `0.61.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.35`
+
+
 ## ecl_tools (jade) - 0.61.1-0
 
 The packages in the `ecl_tools` repository were released into the `jade` distro by running `/usr/bin/bloom-release ecl_tools --track jade --rosdistro jade --new-track` on `Mon, 19 Oct 2015 14:18:13 -0000`
