@@ -1,3 +1,29 @@
+## ecl_tools (ardent) - 0.62.1-0
+
+The packages in the `ecl_tools` repository were released into the `ardent` distro by running `/usr/bin/bloom-release --track ardent --rosdistro ardent ecl_tools` on `Tue, 13 Mar 2018 21:39:16 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.62.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## ecl_tools (lunar) - 0.61.7-0
 
 The packages in the `ecl_tools` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --track lunar --rosdistro lunar ecl_tools` on `Sun, 06 Aug 2017 22:14:16 -0000`
