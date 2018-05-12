@@ -1,3 +1,29 @@
+## ecl_tools (melodic) - 0.61.7-0
+
+The packages in the `ecl_tools` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic ecl_tools` on `Sat, 12 May 2018 05:42:35 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.61.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## ecl_tools (ardent) - 0.62.1-0
 
 The packages in the `ecl_tools` repository were released into the `ardent` distro by running `/usr/bin/bloom-release --track ardent --rosdistro ardent ecl_tools` on `Tue, 13 Mar 2018 21:39:16 -0000`
