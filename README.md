@@ -1,3 +1,28 @@
+## ecl_tools (bouncy) - 1.0.0-0
+
+The packages in the `ecl_tools` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy ecl_tools` on `Thu, 27 Sep 2018 04:15:33 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## ecl_tools (melodic) - 0.61.7-0
 
 The packages in the `ecl_tools` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic ecl_tools` on `Sat, 12 May 2018 05:42:35 -0000`
