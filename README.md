@@ -1,3 +1,29 @@
+## ecl_tools (crystal) - 1.0.1-0
+
+The packages in the `ecl_tools` repository were released into the `crystal` distro by running `/usr/bin/bloom-release --track crystal --rosdistro crystal ecl_tools` on `Tue, 01 Jan 2019 04:07:37 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## ecl_tools (bouncy) - 1.0.0-0
 
 The packages in the `ecl_tools` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy ecl_tools` on `Thu, 27 Sep 2018 04:15:33 -0000`
