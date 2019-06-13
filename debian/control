@@ -1,0 +1,12 @@
+Source: ros-dashing-ecl-build
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-ament-cmake, ros-dashing-ecl-license, ros-dashing-ros-workspace
+Homepage: http://wiki.ros.org/ecl_build
+Standards-Version: 3.9.2
+
+Package: ros-dashing-ecl-build
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-dashing-ecl-license, ros-dashing-ros-workspace
+Description: Collection of cmake/make build tools primarily for ecl development itself, but also contains a few cmake modules useful outside of the ecl.
