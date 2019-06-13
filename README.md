@@ -1,3 +1,29 @@
+## ecl_tools (dashing) - 1.0.1-2
+
+The packages in the `ecl_tools` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --track dashing --rosdistro dashing ecl_tools` on `Thu, 13 Jun 2019 13:38:00 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.1-1`
+- new version: `1.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## ecl_tools (dashing) - 1.0.1-1
 
 The packages in the `ecl_tools` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --track dashing --rosdistro dashing ecl_tools` on `Thu, 13 Jun 2019 13:33:02 -0000`
