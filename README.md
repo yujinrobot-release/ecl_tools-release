@@ -1,3 +1,29 @@
+## ecl_tools (eloquent) - 1.0.2-1
+
+The packages in the `ecl_tools` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --edit-track --track eloquent --rosdistro eloquent ecl_tools` on `Wed, 09 Oct 2019 14:50:35 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## ecl_tools (melodic) - 0.61.8-1
 
 The packages in the `ecl_tools` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic ecl_tools` on `Wed, 21 Aug 2019 16:56:14 -0000`
