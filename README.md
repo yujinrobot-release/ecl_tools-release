@@ -1,3 +1,29 @@
+## ecl_tools (noetic) - 0.61.8-1
+
+The packages in the `ecl_tools` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic ecl_tools` on `Tue, 26 May 2020 04:01:02 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.61.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.40`
+
+
 ## ecl_tools (eloquent) - 1.0.2-1
 
 The packages in the `ecl_tools` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --edit-track --track eloquent --rosdistro eloquent ecl_tools` on `Wed, 09 Oct 2019 14:50:35 -0000`
