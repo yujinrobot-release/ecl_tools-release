@@ -1,10 +1,22 @@
-^^^^^^^^^
+=========
 Changelog
-^^^^^^^^^
+=========
 
-0.61.8 (2018-08-18)
+Forthcoming
+-----------
+
+1.0.2 (2018-08-17)
+------------------
+
+* Cross-platform req and enable cxx11, cxx14
+* Decouple warning levels from enabling standards
+
+0.62.0 (2018-03-13)
 -------------------
-* cross platform enabling of cx11
+
+* Rebuilt for ament
+* cxx14 support
+* ubuntu distros zesty and artful
 
 0.61.6 (2017-02-05)
 -------------------
