@@ -1,3 +1,29 @@
+## ecl_tools (galactic) - 1.0.2-1
+
+The packages in the `ecl_tools` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --rosdistro galactic ecl_tools` on `Sun, 15 May 2022 18:40:25 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ecl_tools (foxy) - 1.0.2-2
 
 The packages in the `ecl_tools` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --rosdistro foxy ecl_tools` on `Thu, 16 Jul 2020 03:59:04 -0000`
