@@ -1,0 +1,67 @@
+ros-rolling-ecl-build (1.0.2-1bullseye) bullseye; urgency=high
+
+  * Cross-platform req and enable cxx11, cxx14
+  * Decouple warning levels from enabling standards
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 17 Aug 2018 04:00:00 -0000
+
+ros-rolling-ecl-build (0.62.0-1bullseye) bullseye; urgency=high
+
+  * Rebuilt for ament
+  * cxx14 support
+  * ubuntu distros zesty and artful
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 13 Mar 2018 04:00:00 -0000
+
+ros-rolling-ecl-build (0.61.6-1bullseye) bullseye; urgency=high
+
+  * add additional ubuntu releases to ecl_detect_distro
+  * cmake message bugfixes to always include type flag (removes warnings)
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 05 Feb 2017 05:00:00 -0000
+
+ros-rolling-ecl-build (0.61.5-1bullseye) bullseye; urgency=high
+
+  * avoid re-loading cotire for every project
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 25 Aug 2016 04:00:00 -0000
+
+ros-rolling-ecl-build (0.61.4-1bullseye) bullseye; urgency=high
+
+  * check, but just quietly avoid including cotire if version check fails.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 20 Mar 2016 04:00:00 -0000
+
+ros-rolling-ecl-build (0.61.3-1bullseye) bullseye; urgency=high
+
+  * added corite cmake module for speeding up builds
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 23 Feb 2016 05:00:00 -0000
+
+ros-rolling-ecl-build (0.61.2-1bullseye) bullseye; urgency=high
+
+  * some comments about tricky c++11 hazards.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sat, 09 Jan 2016 05:00:00 -0000
+
+ros-rolling-ecl-build (0.61.1-1bullseye) bullseye; urgency=high
+
+  * ecl_detect_filesystem cmake macro added.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 16 Aug 2015 04:00:00 -0000
+
+ros-rolling-ecl-build (0.61.0-1bullseye) bullseye; urgency=high
+
+  * convenience macros for cxx11 flag checks and settings.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 12 Sep 2014 04:00:00 -0000
+
+ros-rolling-ecl-build (0.60.1-1bullseye) bullseye; urgency=high
+
+  * ecl_check_for->ecl_detect for consistency.
+  * use catkin exports for cmake modules, closes #2 <https://github.com/stonier/ecl_tools/issues/2>
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 29 Jan 2014 05:00:00 -0000
+
+
