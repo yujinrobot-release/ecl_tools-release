@@ -1,0 +1,12 @@
+Source: ros-humble-ecl-license
+Section: misc
+Priority: optional
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: http://wiki.ros.org/ecl_license
+Standards-Version: 3.9.2
+
+Package: ros-humble-ecl-license
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-ros-workspace
+Description: Maintains the ecl licenses and also provides an install target for deploying licenses with the ecl libraries.
