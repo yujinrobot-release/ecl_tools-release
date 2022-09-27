@@ -1,3 +1,29 @@
+## ecl_tools (humble) - 1.0.3-1
+
+The packages in the `ecl_tools` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble ecl_tools` on `Tue, 27 Sep 2022 03:48:28 -0000`
+
+These packages were released:
+- `ecl_build`
+- `ecl_license`
+- `ecl_tools`
+
+Version of package(s) in repository `ecl_tools`:
+
+- upstream repository: https://github.com/stonier/ecl_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ecl_tools (rolling) - 1.0.2-1
 
 The packages in the `ecl_tools` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling ecl_tools` on `Sun, 22 May 2022 16:16:28 -0000`
